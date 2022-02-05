@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T09:10:52 GMT-05:00" name="Default suite" finished-at="2022-02-05T09:10:52 GMT-05:00" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T09:10:52 GMT-05:00" name="Default test" finished-at="2022-02-05T09:10:52 GMT-05:00" duration-ms="62">
+      <class name="abcdfgd213.gfds">
+        <test-method signature="m1()[pri:0, instance:abcdfgd213.gfds@7c469c48]" started-at="2022-02-05T09:10:52 GMT-05:00" name="m1" finished-at="2022-02-05T09:10:52 GMT-05:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- abcdfgd213.gfds -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
